@@ -1,0 +1,23 @@
+{
+    "temperature": "temperature",
+    "Pressure": "Pressure",
+    "Precipitation": "Precipitation",
+    "Wind": "Wind",
+    "Today": "Today",
+    "Search-by-city": "Search by city",
+    "Time": "Time",
+    "City": "City",
+    "Feels-like": "feels like",
+    "mm-Hg": " mm Hg",
+    "rain": "Rain",
+    "no-rain": "No precipitation",
+    "snow": "Snow",
+    "Northern": "northern",
+    "Northeastern": "northeastern",
+    "Eastern": "eastern",
+    "Southeastern": "southeastern",
+    "Southern": "southern",
+    "Southwestern": "southwestern",
+    "West": "west",
+    "Northwestern": "northwestern"
+}

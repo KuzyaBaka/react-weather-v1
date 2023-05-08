@@ -1,0 +1,23 @@
+{
+    "temperature": "Температура",
+    "Pressure": "Давление",
+    "Precipitation": "Осадки",
+    "Wind": "Ветер",
+    "Today": "Сегодня",
+    "Search-by-city": "Поиск по городу",
+    "Time": "Время",
+    "City": "Город",
+    "Feels-like": "ощущается как",
+    "mm-Hg": "мм ртутного столба",
+    "rain": "Дождь",
+    "no-rain": "Без осадков",
+    "snow": "Снег",
+    "Northern": "северный",
+    "Northeastern": "северо-восточный",
+    "Eastern": "восточный",
+    "Southeastern": "юго-восточный",
+    "Southern": "южный",
+    "Southwestern": "юго-западный",
+    "West": "западный",
+    "Northwestern": "северо-западный"
+}
